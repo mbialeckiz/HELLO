@@ -14,5 +14,5 @@ Below you can find some of my recent works.
 * My first app using API [Random Quote Machine](https://github.com/mbialeckiz/quotemachine)
 
 ## Contact:
-
-
+You can contact me via email: marcinbialeckiz@gmail.com
+or you can find me at linkedin: [Marcin Bialecki](https://www.linkedin.com/in/marcin-bialecki1989/)
